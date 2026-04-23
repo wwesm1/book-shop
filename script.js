@@ -22,13 +22,13 @@
     },
     {
       id: 3,
-      title:    "The Hobbit",
-      author:   "J.R.R. Tolkien",
+      title:    "Harry Potter and the Prisoner of Azkaban",
+      author:   "J.K.Rowling",
       genre:    "fantasy",
       language: "english",
       price:    19.99,
       rating:   4.9,
-      image:    "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg"
+      image:    "https://d3ddkgxe55ca6c.cloudfront.net/assets/t1711556505/a/f1/a0/158647-ml-2252033.jpg"
     },
     {
       id: 4,
@@ -92,13 +92,13 @@
     },
     {
       id: 10,
-      title:    "The Notebook",
-      author:   "Nicholas Sparks",
+      title:    "If Love Had a Price",
+      author:   "Ana Huang",
       genre:    "romance",
       language: "english",
-      price:    16.99,
+      price:    20.99,
       rating:   4.4,
-      image:    "https://covers.openlibrary.org/b/isbn/9780446605236-L.jpg"
+      image:    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTke7xOKWVjJAcQqt-POB3Q14qVFF-aZ9Xbcw&s"
     },
     {
       id: 11,
@@ -128,7 +128,7 @@
       language: "uzbek",
       price:    9.99,
       rating:   4.8,
-      image:    ""
+      image:    "https://backend.book.uz/user-api/img/img-file-5ae6f33d4f57dd353bcc444c84bb326f.jpg"
     },
     {
       id: 14,
@@ -138,7 +138,7 @@
       language: "uzbek",
       price:    11.99,
       rating:   4.5,
-      image:    ""
+      image:    "https://backend.book.uz/user-api/img/img-27f555039d38a8802959416f8ef2b5f3.jpg"
     },
     {
       id: 15,
@@ -148,7 +148,7 @@
       language: "uzbek",
       price:    8.99,
       rating:   4.6,
-      image:    ""
+      image: "https://backend.book.uz/user-api/img/img-file-c8e3b040b1aa5fdf23005f42889395b9.jpg"
     },
     {
       id: 16,
@@ -212,13 +212,13 @@
     },
     {
       id: 22,
-      title:    "Девчонки из 9Б",
-      author:   "Тамара Крюкова",
+      title:    "Анна Каренина",
+      author:   "Лев Толстой",
       genre:    "romance",
       language: "russian",
       price:    13.99,
       rating:   4.3,
-      image:    ""
+      image:    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciuDrg1jmFxBMFD_lf5qgCdorAljNaOiPJA&s"
     },
     {
       id: 23,
@@ -232,13 +232,13 @@
     },
     {
       id: 24,
-      title:    "Navoiy Asarlari",
-      author:   "Alisher Navoiy",
+      title:    "Ikki eshik orasi",
+      author:   "O'tkir Hoshimov",
       genre:    "classic",
       language: "uzbek",
-      price:    14.99,
+      price:    30.99,
       rating:   4.7,
-      image:    ""
+      image:    "https://kitobxon.com/img_knigi/1455.jpg"
     }
   ];
 
